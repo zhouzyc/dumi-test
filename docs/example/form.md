@@ -2,6 +2,8 @@
 
 ---
 title: 测试
+group:
+  title: 分组
 ---
 
 # 组件1
