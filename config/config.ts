@@ -38,9 +38,7 @@ export default defineConfig({
   //路由 不配置 默认为约定式路由
   routes:routes,
   // 别名配置
-  alias: {
-    "@": resolve(__dirname, "./src"),
-  },
+  alias: {},
 
   /**
    * 配置 external
