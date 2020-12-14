@@ -11,5 +11,5 @@ group:
 ---
 
 # 组件2
-<code src="./index.tsx" />
+<code src="./index1.tsx" />
 
