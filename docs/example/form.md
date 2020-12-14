@@ -1,15 +1,11 @@
 ---
-title: 测试
+title: Form
 group:
   title: 分组
 ---
 # 表单使用样例
 
 # 组件1
-<code src="./index.tsx" />
+<code src="@/components/ProFormCustom/Example/use.tsx" />
 
----
-
-# 组件2
-<code src="./index1.tsx" />
 
