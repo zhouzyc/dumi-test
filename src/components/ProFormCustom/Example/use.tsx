@@ -37,7 +37,7 @@ interface AddButtonCustomType {
 
 
 
-function AddButtonCustom(Props:AddButtonCustomType) {
+function AddButtonCustom1(Props:AddButtonCustomType) {
 
   const {
     bntType,
@@ -62,4 +62,4 @@ function AddButtonCustom(Props:AddButtonCustomType) {
   );
 }
 
-export default AddButtonCustom;
+export default AddButtonCustom1;
